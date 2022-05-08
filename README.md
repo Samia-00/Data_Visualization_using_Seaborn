@@ -1,4 +1,5 @@
-#  Data_Visualization_using_Seaborn
+#  Data Visualization using Seaborn
+
 # Tumor Diagnosis : Exploratory Data Analysis
  
 The Breast Cancer Diagnostic data is available on the UCI Machine Learning Repository. This database is also available through the UW CS ftp server.
